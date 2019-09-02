@@ -1,4 +1,4 @@
-.name {
+.name{
     width: 250px;
     height: 70px;
     font-family: Georgia, Times, "Times New Roman", serif;
@@ -6,6 +6,12 @@
     font-weight: 700;
     line-height: 70px;
     text-align: center;
+}
+
+h3 {
+    
+    
+
 }
 
 .mr-auto {
@@ -21,3 +27,6 @@ body {
     background: #f8f9fa;
 }
 
+.col-sm-3 {
+    text-align: center;
+}
